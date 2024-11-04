@@ -11,7 +11,7 @@ O intuito deste repositório é aprender as melhore práticas de versionamento d
   - font
         
 - [x] Realizando primeiro commit
-- [ ] Esrilo inicial CSS
+- [x] Esrilo inicial CSS
 - [ ] Realizando segundo commit
 - [ ] Enviando ao guitHUB
 
@@ -23,3 +23,15 @@ O intuito deste repositório é aprender as melhore práticas de versionamento d
 |git status| verifica os status dos arquivos|
 |git add| prepara os arquivos para uma nova versão|
 |git commit -m "mensagem" |  cria uma nova versão|  
+|git remote| verifica ou adiciona uma git remota|
+|git log|verifica oc commit presentes|
+|git clone|clona um repositorio remoto|
+|git push| avisa para o repositorio remoto a produção padrao|
+
+### Instrução de config do git
+
+| Instrução | Descrição |
+| -|- |
+|git config list| lista as config|
+|git config --global user.name| nome de usuario|
+|git config --global user.email| email usuario|
