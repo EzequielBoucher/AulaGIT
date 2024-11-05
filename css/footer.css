@@ -1,0 +1,8 @@
+.redes-sociais{
+    display: flex;
+    justify-content: space-between;
+}
+
+.redes-sociais img{
+    /*box-shadow: 0 .68rem 2rem white;*/
+}

@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'mario-font';
+    src: url(./assets/Fontes/RetroMario-Regular.otf);
+}
+
+:root{
+    --preto-degrade: black;
+    --azul-escuro: #001774 ;
+    --azul-claro: #053098;
+    --vermelho: red;
+}
+
+h1{
+    font-size: 3.2rem;
+    font-family: 'mario-font';
+    color: var(--vermelho);
+    text-shadow: .5rem .5rem .2rem var(--preto-degrade);
+}
