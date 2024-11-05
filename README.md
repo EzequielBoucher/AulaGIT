@@ -8,9 +8,5 @@
 
 
 <div align=center>
-<<<<<<< HEAD
      <a href="https://ezequielboucher.github.io/AulaGIT/"> Acesse aqui</a>
-</div>
-=======
-     <img src="./assets/img/Mario.png" width=300>
 </div>
