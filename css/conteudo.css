@@ -1,14 +1,14 @@
 .conteudo{
     box-shadow: 0rem 5rem 6rem var(--preto-degrade);
-    padding: 4rem;
+    padding: 2rem;
     border-radius: 2rem;
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: .5rem;
     background-image: linear-gradient(to top ,var(--vermelho) , var(--preto-degrade));
 }
  
 .perfil{
-    height: 25rem;
+    height: 15rem;
     margin: 2rem;
 }
