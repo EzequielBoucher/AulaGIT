@@ -1,3 +1,13 @@
+
+
+<div align=center>
+     <img src="./assets/img/Mario.png" width=300>
+</div>
+
+
+
+
+
 # Aprendendo GIT com Mario 
 
 O intuito deste repositório é aprender as melhore práticas de versionamento de projeto atraves de tecnologias git agregado a plataforma de codigos github
@@ -12,8 +22,8 @@ O intuito deste repositório é aprender as melhore práticas de versionamento d
         
 - [x] Realizando primeiro commit
 - [x] Esrilo inicial CSS
-- [ ] Realizando segundo commit
-- [ ] Enviando ao guitHUB
+- [x] Realizando segundo commit
+- [x] Enviando ao guitHUB
 
 ## Instrução GIT
 
